@@ -47,6 +47,40 @@
 - ☁️ 인식된 정보를 MariaDB와 AWS에 연동하여 실시간 저장 구조 설계  
 
 ---
+## 🖥 화면 구성
 
+프로젝트의 주요 기능을 시각적으로 확인할 수 있는 화면입니다.  
+클릭하면 원본 크기로 볼 수 있습니다.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5b3e1476-e28d-4d61-8227-885596153aa9" width="300px" alt="화면1"/><br/>
+      <sub>Jetson nano 환경 설정</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6b5ba17d-cc95-40b4-9f4f-716a11841425" width="300px" alt="화면2"/><br/>
+      <sub>🔍 번호판 확대 및 탐지</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/504180c1-25b0-4881-aefc-c57e2496c67a" width="300px" alt="화면3"/><br/>
+      <sub>학습 모델 평가 지표</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/13c982db-56c3-4309-a96c-711def833e26" width="300px" alt="화면4"/><br/>
+      <sub>☁️ AWS S3 업로드 과정</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/36328d23-6f45-41d2-b1c5-9e2ef6700a0b" width="600px" alt="화면5"/><br/>
+      <sub>🌐 웹 대시보드에서 확인 과정 및 확인</sub>
+    </td>
+  </tr>
+</table>
+
+---
 > 📁 프로젝트 전체는 `불법주차 단속 자동화`라는 실질적인 사회 문제 해결을 목표로,  
 > 임베디드 시스템과 AI 모델, 클라우드 인프라를 유기적으로 연결한 **엔드 투 엔드 통합 시스템**입니다.
