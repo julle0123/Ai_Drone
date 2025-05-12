@@ -3,6 +3,11 @@
 불법 주정차 문제 해결을 위한 **자율비행 드론 기반 차량 단속 시스템**
 
 ---
+
+## 📅 프로젝트 기간
+2025.03.04 ~ 2025.12.09 (약 9개월)
+
+---
 ## 📌 프로젝트 소개
 
 **독수리 오형제**는 자율비행 드론을 통해 불법주정차 차량을 감지하고,  
@@ -28,7 +33,7 @@
 | 운영체제 | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 | 데이터베이스 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | 클라우드 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-
+| 모바일 | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 
 ---
 
