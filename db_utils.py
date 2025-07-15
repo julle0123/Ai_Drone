@@ -28,8 +28,8 @@ def save_to_db(s3_url, class_str, lat, lon, timestamp):
                 location = f"위도:{lat},경도:{lon}"
                 cursor.execute(sql, (s3_url, class_str, location, timestamp, 10000))
                 conn.commit()
-                print("✅ DB 저장 완료")
+                print("DB 저장 완료")
         except Exception as e:
-            print("❌ DB 저장 실패:", e)
+            print("DB 저장 실패:", e)
         finally:
             conn.close()
